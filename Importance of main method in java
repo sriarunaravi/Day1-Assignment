@@ -1,2 +1,7 @@
 It ia an entry point for program execution.When you run the java Code,JVM looks for main method.
-Public Static Void main(string[] args).
+The Syntax Is :Public Static Void main(string[] args).
+Pubilc :It is an access modifier.It can accessed by jvm from outside the code
+Static:It Is an Keyword,if your main method is not static it creates an error.It is used to calling for main method so it reduces memory space.
+void:It is a keyword and is used to specify that a method does not return anything. 
+main:It is an identifier and starting point of the program.
+String[] args:This is an Parameter.Its used to main method accept the array as string objects as arguments.
