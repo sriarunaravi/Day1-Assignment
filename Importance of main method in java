@@ -1,0 +1,2 @@
+It ia an entry point for program execution.When you run the java Code,JVM looks for main method.
+Public Static Void main(string[] args).
